@@ -21,6 +21,6 @@ console.log("github")
 
 // git commit -m "komentariya yozing"
 
-// git add .
+// 🤣🤣🤣git add .
 // git commit -m "komentariya yozing"
 // git
