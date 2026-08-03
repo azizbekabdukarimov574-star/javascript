@@ -57,6 +57,7 @@
 // find() - array ichidagi  qiymat qidiradi. topsa qiymatni qaytaradi.
 // topa olmasa undefined qaytaradi
 
+
 // let arr = ["Olma", "Uzum", "Nok", "Olcha", "Gilos", "Nok"]
 // let newValue = arr.find((value, index, a) => {
 // if (value === "Apelsin") return value;
