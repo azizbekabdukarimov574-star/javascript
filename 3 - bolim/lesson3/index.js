@@ -23,8 +23,8 @@
 // })
 // console.log(v);
 
-let arr = ["scratch", "python", "Html", "Css", "scratch", "JS", "react JS"]
-let i = arr.findLastIndex((value, index, a) => {
-    return "scratch" === value;
-});
-console.log(i);
+// let arr = ["scratch", "python", "Html", "Css", "scratch", "JS", "react JS"]
+// let i = arr.findLastIndex((value, index, a) => {
+//     return "scratch" === value;
+// });
+// console.log(i);
